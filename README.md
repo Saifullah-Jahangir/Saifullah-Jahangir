@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Saifullah Jahangir 👋
 
-<!--
-**Saifullah-Jahangir/Saifullah-Jahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Intern | Cloud & Automation Enthusiast 🚀
 
-Here are some ideas to get you started:
+I'm currently working as a **DevOps Intern at Graana.com**, part of the **Imaarat Group of Companies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about cloud computing, Linux system administration, infrastructure automation, and building reliable deployment pipelines.
+
+### 👨‍💻 About Me
+- 💼 DevOps Intern at [Graana.com](https://www.graana.com/) – Imaarat Group of Companies.
+- ☁️ Learning AWS and cloud infrastructure.
+- 🐧 Practicing Linux system administration.
+- 🐳 Exploring Docker and Kubernetes.
+- ⚙️ Interested in CI/CD, Infrastructure as Code, and automation.
+- 🎯 Working towards becoming a skilled DevOps Engineer.
+
+### 🛠️ Technologies & Tools
+
+- **Cloud:** AWS
+- **Operating Systems:** Linux, Ubuntu
+- **Containers:** Docker
+- **Orchestration:** Kubernetes
+- **CI/CD:** Jenkins, GitHub Actions
+- **Version Control:** Git, GitHub
+- **Scripting:** Bash
+- **Web Servers:** Nginx, Apache
+
+### 📚 Currently Learning
+- AWS DevOps
+- Kubernetes
+- CI/CD Pipelines
+- Infrastructure as Code
+- Production Linux Administration
+
+### 🚀 Projects
+- Linux Server Administration
+- Bash Scripting
+- AWS Cloud Projects
+- Hands-on DevOps Projects
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Saifullah Jahangir](https://www.linkedin.com/in/saifullah-jahangir-b6384835b/)
+- **Email:** saifullahjahangir47@gmail.com
